@@ -142,4 +142,4 @@ async def unban(context, *, member):
 
 
 # Run the Client on the server
-Client.run('OTI3NTMxMzg0OTcxNjIwNDI0.YdLk6g.5jZ1pvM4RtGDF4csJDK-r-r_Sy8')
+Client.run('')
